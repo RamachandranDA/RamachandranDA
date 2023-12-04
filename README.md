@@ -1,8 +1,10 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Binary_code_background_with_a_line_graph_trending_upwards_in_the_center.png" alt="Data Analyst Github Banner" width="800" height="400">
+<img src="https://i.imgur.com/YOUR_IMAGE_ID.jpg" alt="Binary code background with a line graph trending upwards in the center">
+
 
 <h1 align="center">Hi 👋, I'm Ramachandran</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-1.gif"
+img align="right" alt="Coding" width="400" src="![image](https://github.com/RamachandranDA/RamachandranDA/assets/140075853/29009e40-87de-4935-bfb9-48338ab32c4f)
+"
 
 - 🔭 I’m currently working on **Data Analyst Project Challenge**
 
@@ -19,10 +21,17 @@ img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static
 <a href="https://linkedin.com/in/ramachandran-r-53b470150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramachandran-r-53b470150" height="30" width="40" /></a>
 <a href="https://kaggle.com/ramachandran123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ramachandran123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manirama4120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manirama4120" height="30" width="40" /></a>
-<a href="https://discord.gg/ramachandran4202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramachandran4202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramachandran&show_icons=true&locale=en&layout=compact" alt="ramachandran" /></p>

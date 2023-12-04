@@ -9,7 +9,6 @@
 <h1 align="center">Hi 👋, I'm Ramachandran</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16116886-Data-Inform-Illustration-Animation-Gif-Json"
 
 - 🔭 I’m currently working on **Data Analyst Project Challenge**
 

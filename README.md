@@ -5,7 +5,7 @@
 <style>
 .banner {
   width: 100%;
-  height: 400px;
+  height: 50%;
   background-image: url('https://www.dell.com/wp-uploads/2022/12/big-data-and-computing-tools-abstract-background-440x440.jpg');
   background-size: cover;
   background-position: center;
@@ -18,6 +18,7 @@
 
 <h1 align="center">Hi 👋, I'm Ramachandran</h1>
 <h3 align="center">A passionate Data Analyst</h3>
+
 img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zewt28p0tu0y7krwde7t9ruflkna0o5mo72v5m3u&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
 - 🔭 I’m currently working on **Data Analyst Project Challenge**

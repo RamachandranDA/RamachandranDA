@@ -1,10 +1,24 @@
-<img src="https://i.imgur.com/YOUR_IMAGE_ID.jpg" alt="Binary code background with a line graph trending upwards in the center">
+<div class="banner">
+  <img src="https://www.dell.com/wp-uploads/2022/12/big-data-and-computing-tools-abstract-background-440x440.jpg" alt="Banner image">
+</div>
+
+<style>
+.banner {
+  width: 100%;
+  height: 400px;
+  background-image: url('https://www.dell.com/wp-uploads/2022/12/big-data-and-computing-tools-abstract-background-440x440.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+}
+</style>
+
 
 
 <h1 align="center">Hi 👋, I'm Ramachandran</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-img align="right" alt="Coding" width="400" src="![image](https://github.com/RamachandranDA/RamachandranDA/assets/140075853/29009e40-87de-4935-bfb9-48338ab32c4f)
-"
+img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zewt28p0tu0y7krwde7t9ruflkna0o5mo72v5m3u&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
 - 🔭 I’m currently working on **Data Analyst Project Challenge**
 

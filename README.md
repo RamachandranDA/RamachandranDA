@@ -2,17 +2,7 @@
   <img src="https://www.dell.com/wp-uploads/2022/12/big-data-and-computing-tools-abstract-background-440x440.jpg" alt="Banner image">
 </div>
 
-<style>
-.banner {
-  width: 100%;
-  height: 50%;
-  background-image: url('https://www.dell.com/wp-uploads/2022/12/big-data-and-computing-tools-abstract-background-440x440.jpg');
-  background-size: cover;
-  background-position: center;
-  text-align: center;
-  color: white;
-}
-</style>
+
 
 
 
